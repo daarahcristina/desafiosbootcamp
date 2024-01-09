@@ -1,8 +1,8 @@
 # Desafios Bootcamp DIO
 
-** 1) Desafio Classificador de nível de Herói
+## 1) Desafio Classificador de nível de Herói
 
-## Objetivo
+### Objetivo
 
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
@@ -15,21 +15,14 @@ Se XP for entre 8.001 e 9.000 = Ascendente
 Se XP for entre 9.001 e 10.000= Imortal
 Se XP for maior ou igual a 10.001 = Radiante
 
-## Saída
+### Saída
 
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
-** 2) Calculadora de partidas Rankeadas
-**O Que deve ser utilizado**
+## 2) Calculadora de partidas Rankeadas
 
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
-- Funções
-
-## Objetivo:
+### Objetivo:
 
 Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
 depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
@@ -42,4 +35,4 @@ Se vitórias for entre 81 e 90 = Diamante
 Se vitórias for entre 91 e 100= Lendário
 Se vitórias for maior ou igual a 101 = Imortal
 
-## Saída
+### Saída
